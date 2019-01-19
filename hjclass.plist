@@ -11,7 +11,7 @@
                     <key>kind</key>  
                     <string>software-package</string>  
                     <key>url</key>  
-                    <string>http://platform.amyglzx.com/media/app/hjclass-test-v1.0-ios.ipa</string>
+                    <string>http://platform.amyglzx.com/media/app/MarriageClass.ipa</string>
                 </dict>
                 <dict>  
                     <key>kind</key>  
@@ -34,15 +34,15 @@
             <key>metadata</key>  
             <dict>  
                 <key>bundle-identifier</key>  
-                <string>com.mantis.Memo</string>
+                <string>com.mantis.MarriageClass</string>
                 <key>bundle-version</key>  
                 <string>1.0.0</string>
                 <key>kind</key>
                 <string>software</string>  
                 <key>subtitle</key>  
-                <string>Memo</string>
+                <string>MarriageClass</string>
                 <key>title</key>  
-                <string>Memo</string>
+                <string>MarriageClass</string>
             </dict>
         </dict>  
     </array>  
